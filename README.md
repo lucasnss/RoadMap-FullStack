@@ -1,145 +1,96 @@
-# 🚀 Full-Stack Development Learning Roadmap
+# 👋 ¡Hola! Soy Lucas Saucedo
 
-## 📋 Descripción del Proyecto
-Este repositorio documenta mi viaje de aprendizaje para convertirme en un desarrollador Full-Stack moderno, siguiendo un plan de estudios estructurado y práctico.
+### Desarrollador Full-Stack | Especialista en E-commerce
 
-## 🎯 Objetivos
-- Dominar tecnologías Full-Stack modernas
-- Desarrollar proyectos prácticos
-- Construir un portafolio sólido
-- Aprender mejores prácticas de desarrollo
-
-## 📅 Estructura del Plan de Estudios
-
-### 🔹 Mes 1: Fundamentos y Backend
-#### Semana 1-2: JavaScript Moderno y Node.js
-- Características avanzadas de ES6+
-- Programación asíncrona
-- Fundamentos de Node.js
-- Express.js
-- Proyecto: API REST básica
-
-#### Semana 3-4: Bases de Datos y Autenticación
-- MongoDB con Mongoose
-- PostgreSQL con Sequelize
-- Autenticación JWT
-- Seguridad de aplicaciones
-- Proyecto: Sistema de gestión de usuarios
-
-### 🔹 Mes 2: Frontend Moderno
-#### Semana 5-6: React.js Fundamentos
-- Componentes y hooks
-- Manejo de estado
-- Consumo de APIs
-- Proyecto: Aplicación de tareas
-
-#### Semana 7-8: Estado Avanzado y Proyecto Integrador
-- Context API
-- Redux/Zustand
-- Integración backend-frontend
-- Proyecto MERN Full-Stack
-
-### 🔹 Mes 3: Mejores Prácticas
-#### Semana 9-10: Arquitectura y Diseño
-- Patrones de diseño
-- Principios SOLID
-- Arquitectura MVC
-- Refactorización de código
-
-#### Semana 11-12: Testing y DevOps
-- Testing unitario y de integración
-- Jest y React Testing Library
-- Docker
-- Configuraciones de despliegue
-- Proyecto: Dockerizar aplicación
-
-### 🔹 Mes 4: Tecnologías Avanzadas
-#### Semana 13-14: TypeScript
-- Fundamentos de TypeScript
-- Tipado en frontend y backend
-- Migrando proyectos a TypeScript
-
-#### Semana 15-16: Despliegue y Proyecto Final
-- Deployment en plataformas cloud
-- Optimización de rendimiento
-- Proyecto final profesional
-
-## 🛠 Tecnologías y Herramientas
-- **Backend**: Node.js, Express, NestJS
-- **Frontend**: React, Next.js
-- **Bases de Datos**: MongoDB, PostgreSQL
-- **Autenticación**: JWT, OAuth
-- **Testing**: Jest, Cypress
-- **DevOps**: Docker, GitHub Actions
-- **Otras herramientas**: TypeScript, GraphQL
-
-## 📂 Estructura de Repositorio
-```
-full-stack-learning/
-│
-├── backend/               # Proyectos de backend
-│   ├── express-api/
-│   └── nestjs-project/
-│
-├── frontend/              # Proyectos de frontend
-│   ├── react-apps/
-│   └── nextjs-projects/
-│
-├── full-stack-projects/   # Proyectos full-stack
-│   ├── mern-todo-app/
-│   └── ecommerce-platform/
-│
-└── exercises/             # Ejercicios semanales
-    ├── week-1/
-    ├── week-2/
-    └── ...
-```
-
-## 🏆 Proyectos Planificados
-1. Sistema de Gestión de Tareas
-2. Plataforma de E-commerce
-3. Dashboard Administrativo
-4. Aplicación en Tiempo Real
-
-## 📚 Recursos de Aprendizaje
-- Documentaciones oficiales
-- Cursos en línea
-- Canales de YouTube
-- Blogs técnicos
-- Comunidades de desarrollo
-
-## 📈 Métricas de Progreso
-- Proyectos completados
-- Tecnologías aprendidas
-- Líneas de código
-- Contribuciones en GitHub
-
-## 🤝 Contribuciones
-¡Las sugerencias y contribuciones son bienvenidas! Abre un issue o un pull request.
-
-## 📜 Licencia
-[Especificar Licencia]
+[![GitHub](https://img.shields.io/badge/-lucasnss-181717?style=flat&logo=github)](https://github.com/lucasnss) [![Instagram](https://img.shields.io/badge/-@yayoolucas-E4405F?style=flat&logo=instagram)](https://www.instagram.com/yayoolucas/) [![LinkedIn](https://img.shields.io/badge/-Yayo–Saucedo-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yayo-saucedo/)
 
 ---
 
-**¡Último Commit:** *Inicializando mi viaje Full-Stack* 🚀
-```
+## 🚀 Sobre mí
 
-## Notas Adicionales
+Soy un desarrollador apasionado por crear experiencias digitales excepcionales. Con más de 3 años de experiencia en programación, actualmente estoy finalizando la carrera de **Técnico Superior en Programación** en la Facultad Tecnológica de Tucumán.
 
-He estructurado el README.md para que sea:
-- Informativo
-- Profesional
-- Fácil de seguir
-- Motivador
+Mi enfoque se centra en el desarrollo de aplicaciones web modernas, con especial énfasis en e-commerce, autenticación segura y experiencias de usuario intuitivas. Me considero una persona responsable, entusiasta y siempre con hambre de aprender nuevas tecnologías.
 
-Incluye:
-- Descripción clara del plan
-- Estructura detallada
-- Tecnologías
-- Estructura de repositorio
-- Proyectos
-- Recursos
-- Métricas de progreso
+---
 
-Puedes personalizarlo aún más según tus preferencias específicas. ¿Te gustaría que haga algún ajuste?
+## 🌱 Proyecto Destacado: ViveroWeb - E-commerce Completo
+
+### 🎯 **Descripción del Proyecto**
+**ViveroWeb** es una plataforma e-commerce completa para la venta de plantas y macetas, desarrollada como mi primer proyecto profesional. La aplicación ofrece una experiencia de compra fluida desde la exploración de productos hasta el pago final, con un panel de administración robusto para la gestión del negocio.
+
+### 🏗️ **Arquitectura y Tecnologías**
+
+#### **Frontend & UI/UX**
+- **Framework:** Next.js 15.2.4 con App Router
+- **Lenguaje:** TypeScript 5
+- **UI Library:** Radix UI + Tailwind CSS + Shadcn/ui
+- **Estado:** Context API + Hooks personalizados
+- **Responsive Design:** Mobile-first con breakpoints optimizados
+
+#### **Backend & Base de Datos**
+- **API Routes:** Next.js API Routes (Backend integrado)
+- **Base de Datos:** Supabase (PostgreSQL)
+- **Autenticación:** JWT + HttpOnly Cookies + Supabase Auth
+- **Seguridad:** Row Level Security (RLS) + Middleware personalizado
+- **Validación:** Zod schemas + TypeScript strict mode
+
+#### **Funcionalidades Core Implementadas**
+- ✅ **CRUD Completo:** Productos, Categorías, Pedidos
+- ✅ **Sistema de Carrito:** Persistencia localStorage + Validación stock
+- ✅ **Panel de Administración:** Dashboard + Gestión completa
+- ✅ **Autenticación:** Login/Logout + Roles (Admin)
+- ✅ **Pagos:** Integración MercadoPago + Webhooks
+- ✅ **Gestión de Imágenes:** Upload múltiple + Supabase Storage
+- ✅ **Búsqueda y Filtros:** 12+ filtros avanzados + Paginación
+- ✅ **Logs de Actividad:** Auditoría completa de acciones
+
+
+### 📊 **Funcionalidades Avanzadas**
+
+#### **Sistema de Carrito Inteligente**
+- Persistencia automática en localStorage
+- Validación de stock en tiempo real
+- Límite de 15 productos por item
+- Expiración automática (1 hora)
+- Sincronización entre pestañas
+
+#### **Panel de Administración**
+- Dashboard con métricas en tiempo real
+- Gestión completa de productos con imágenes
+- Sistema de roles y permisos
+- Historial de actividades
+- Gestión de pedidos y estados
+
+#### **Integración de Pagos**
+- MercadoPago completamente integrado
+- Webhooks para notificaciones
+- Estados de pago automáticos
+- Manejo de errores robusto
+
+
+## 🛠️ Tech Stack Completo
+
+### **Lenguajes y Frameworks**
+- **JavaScript/TypeScript** - Desarrollo tipado y robusto
+- **React.js** - UI interactiva y componentes reutilizables
+- **Next.js 15.x** - SSR, SSG, API Routes, App Router
+- **Tailwind CSS** - Estilos utilitarios y responsive
+
+### **Bases de Datos y Backend**
+- **Supabase** - PostgreSQL, Auth, Storage, RLS
+- **PostgreSQL** - Base de datos relacional
+- **MongoDB** - Experiencia previa en NoSQL
+
+
+---
+
+## 📫 **¡Conectemos!**
+
+- **GitHub:** [lucasnss](https://github.com/lucasnss)
+- **Instagram:** [@yayoolucas](https://www.instagram.com/yayoolucas/)
+- **LinkedIn:** [Yayo Saucedo](https://www.linkedin.com/in/yayo-saucedo/)
+
+---
+
+> *"La excelencia en el código no es un destino, es un viaje continuo de mejora y aprendizaje."* 🚀  
